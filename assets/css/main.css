@@ -15,7 +15,8 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		/*font: inherit;*/
+		font:  none !important;
 		vertical-align: baseline;
 	}
 
